@@ -1,7 +1,7 @@
 /* RAVI RAHUL  13/08/2018  16:30  */
 
 .body{
-    background-color: #55BCC9
+    background-color: #55BCC9;
     color: white;
     font-family: Garamond;
     }
@@ -11,3 +11,24 @@
     font-family: palatino;
     }
     
+#flipkart{
+    height: 500px;
+    width: 1500px;
+    border: 1px solid black;
+    background: #F7A200;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+}
+
+#amazon{
+    height: 500px;
+    width: 1500px;
+    border: 1px solid black;
+    background: #ff9b00;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+}
