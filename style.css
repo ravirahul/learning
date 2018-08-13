@@ -9,11 +9,15 @@
  #header{
     color: #5C4445;
     font-family: palatino;
+    background: #1A1A1D;
+    color: #C3073F;
+    font-family: "ostrich sans bold" "ostrich sans" arial;
+    position: fixed;
     }
     
 #flipkart{
-    height: 500px;
-    width: 1500px;
+    height: 200px;
+    width: 1000px;
     border: 1px solid black;
     background: #F7A200;
     color: white;
@@ -23,10 +27,10 @@
 }
 
 #amazon{
-    height: 500px;
-    width: 1500px;
+    height: 250px;
+    width: 1000px;
     border: 1px solid black;
-    background: #ff9b00;
+    background: #FF9B00;
     color: white;
     padding: 2px;
     margin: 2px 2px 2px 2px;
