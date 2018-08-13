@@ -46,6 +46,27 @@
     margin: 2px 2px 2px 2px;
     position: relative;
 }
+#BigBasket{
+    height: 250px;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+    }
+
+#Swiggy{
+    height: 250px;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: yellow;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+    }
 
 #paytm{
     height: 200px;
@@ -58,13 +79,4 @@
     position: relative;
 }
     
-#bigbasket{
-    height: 250px;
-    width: 1000px;
-    border: 1px solid black;
-    background-color: green;
-    color: white;
-    padding: 2px;
-    margin: 2px 2px 2px 2px;
-    position: relative;
-    }
+
