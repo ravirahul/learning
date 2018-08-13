@@ -16,11 +16,14 @@
     position: fixed;
     }
     
-/*#spaceforheader{
-    height: 150px;
-    width: 100%;
+#spaceforheader{
+    height: 200px;
+    width: 1000px;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
     position: relative;
-}*/
+}
 
 #flipkart{
     height: 200px;
