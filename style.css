@@ -9,17 +9,22 @@
  #header{
     color: #5C4445;
     font-family: palatino;
-    background: #1A1A1D;
+    background-color: #1A1A1D;
+    width: 100%;
     color: #C3073F;
     font-family: "ostrich sans bold" "ostrich sans" arial;
     position: fixed;
     }
     
+#spaceforheader{
+    height: 150px;
+    width: 100%;
+    position: relative;
 #flipkart{
     height: 200px;
     width: 1000px;
     border: 1px solid black;
-    background: #F7A200;
+    background-color: #F7A200;
     color: white;
     padding: 2px;
     margin: 2px 2px 2px 2px;
@@ -30,9 +35,31 @@
     height: 250px;
     width: 1000px;
     border: 1px solid black;
-    background: #FF9B00;
+    background-color: #FF9B00;
     color: white;
     padding: 2px;
     margin: 2px 2px 2px 2px;
     position: relative;
 }
+
+#paytm{
+    height: 200px;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: #blue;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+}
+    
+#bigbasket{
+    height: 250px;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    position: relative;
+    }
